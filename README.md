@@ -18,4 +18,4 @@ This project is an IoT-based system for monitoring real-time environmental condi
 
 ## 👨‍💻 Author
 Mukesh K.  
-Final Year B.Sc. Computer Technology Student
+
