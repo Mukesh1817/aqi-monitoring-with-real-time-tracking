@@ -15,7 +15,3 @@ This project is an IoT-based system for monitoring real-time environmental condi
 - AI prediction for next 2–3 days
 - Product suggestions based on AQI
 - Mobile-first UI with offline support
-
-## 👨‍💻 Author
-Mukesh K.  
-
